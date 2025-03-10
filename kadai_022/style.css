@@ -45,4 +45,5 @@ a:hover {color: rgb(245,178,168);}
         p {font-size: 25px;}
         #parent {
             display: block;}
+        #parent {flex-direction: column}
         }
